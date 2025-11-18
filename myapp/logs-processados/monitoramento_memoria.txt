@@ -1,0 +1,3 @@
+----------------------MONITORAMENTO MEMORIA-------------------------
+Sun Nov 16 21:17:58 -03 2025
+Memoria total: 9.6Gi |Memoria em uso: 894Mi |Memoria Livre: 8.3Gi

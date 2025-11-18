@@ -1,0 +1,42 @@
+----------------------MONITORAMENTO MEMORIA-------------------------
+Mon Nov 17 13:07:56 -03 2025
+Memoria total: 9.6Gi |Memoria em uso: 759Mi |Memoria Livre: 8.8Gi
+Uso da CPU: 1.2%
+----------------------MONITORAMENTO HARDWARE-------------------------
+Mon Nov 17 13:09:50 -03 2025
+Memoria total: 9.6Gi |Memoria em uso: 759Mi |Memoria Livre: 8.8Gi
+Uso da CPU: 2.4%
+----------------------MONITORAMENTO HARDWARE-------------------------
+Mon Nov 17 13:12:55 -03 2025
+Memoria total: 9.6Gi |Memoria em uso: 768Mi |Memoria Livre: 8.7Gi
+Uso da CPU: 1.2%
+----------------------MONITORAMENTO HARDWARE-------------------------
+Mon Nov 17 13:14:43 -03 2025
+Memoria total: 9.6Gi |Memoria em uso: 765Mi |Memoria Livre: 8.7Gi
+Uso da CPU: 0%
+----------------------MONITORAMENTO HARDWARE-------------------------
+Mon Nov 17 13:17:12 -03 2025
+Memoria total: 9.6Gi |Memoria em uso: 762Mi |Memoria Livre: 8.8Gi
+Uso da CPU: 0%
+----------------------MONITORAMENTO HARDWARE-------------------------
+Mon Nov 17 14:00:38 -03 2025
+Memoria total: 9.6Gi |Memoria em uso: 774Mi |Memoria Livre: 8.7Gi
+Uso da CPU: 1.2%
+----------------------MONITORAMENTO DE LEITURA E ESCRITA-------------------------
+Mon Nov 17 14:00:38 -03 2025
+----------------------MONITORAMENTO HARDWARE-------------------------
+Mon Nov 17 14:01:07 -03 2025
+Memoria total: 9.6Gi |Memoria em uso: 779Mi |Memoria Livre: 8.7Gi
+Uso da CPU: 1.2%
+----------------------MONITORAMENTO DE LEITURA E ESCRITA-------------------------
+Mon Nov 17 14:01:08 -03 2025
+----------------------MONITORAMENTO HARDWARE-------------------------
+Mon Nov 17 14:01:29 -03 2025
+Memoria total: 9.6Gi |Memoria em uso: 776Mi |Memoria Livre: 8.7Gi
+Uso da CPU: 0%
+----------------------MONITORAMENTO DE LEITURA E ESCRITA-------------------------
+Mon Nov 17 14:01:29 -03 2025
+|Device | tps | kB_read/s | kB_wrtn/s
+|sda | 0.26 | 17.21 | 0.00
+|sdb | 0.02 | 0.51 | 0.00
+|sdc | 9.45 | 206.44 | 35.82
